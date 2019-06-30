@@ -1,0 +1,51 @@
+date,date.actual,state,state.full,delegates,type,clinton,sanders,clinton.delegates,sanders.delegates,
+63,1-Feb,IA,Iowa,44,Semi-open caucus,49.9,49.6,23,21,-90
+71,9-Feb,NH,New Hampshire,24,Semi-closed primary,38,60.4,9,15,-82
+82,20-Feb,NV,Nevada,35,Closed caucus,52.6,47.3,20,15,-71
+89,27-Feb,SC,South Carolina,53,Open primary,73.5,26,39,14,-71
+92,1-Mar,AL,Alabama,53,Open primary,77.8,19.2,44,9,-61
+92,1-Mar,AR,Arkansas,32,Open primary,66.3,29.7,22,10,-61
+92,1-Mar,CO,Colorado,66,Closed caucus,40.3,59,25,41,-61
+92,1-Mar,GA,Georgia,102,Open primary,71.3,28.2,73,29,-61
+92,1-Mar,MA,Massachusetts,91,Semi-closed primary,50.1,48.7,46,45,-61
+92,1-Mar,MN,Minnesota,77,Open caucus,38.4,61.6,31,46,-61
+92,1-Mar,OK,Oklahoma,38,Semi-closed primary,41.5,51.9,17,21,-61
+92,1-Mar,TN,Tennessee,67,Open primary,66.1,32.4,44,23,-61
+92,1-Mar,TX,Texas,222,Open primary,65.2,33.2,147,75,-61
+92,1-Mar,VT,Vermont,16,Open primary,13.6,86.1,0,16,-61
+92,1-Mar,VA,Virginia,95,Open primary,64.3,35.2,62,33,-61
+96,5-Mar,KS,Kansas,33,Closed caucus,32.3,67.7,10,23,-57
+96,5-Mar,LA,Louisiana,51,Closed primary,71.1,23.2,37,14,-57
+96,5-Mar,NE,Nebraska,25,Closed caucus,42.9,57.1,10,15,-57
+97,6-Mar,ME,Maine,25,Closed caucus,35.5,64.3,8,17,-56
+99,8-Mar,MI,Michigan,130,Open primary,48.3,49.8,63,67,-54
+99,8-Mar,MS,Mississippi,36,Open primary,82.6,16.5,31,5,-54
+106,15-Mar,FL,Florida,214,Closed primary,64.4,33.3,141,73,-47
+106,15-Mar,IL,Illinois,156,Open primary,50.5,48.7,79,77,-47
+106,15-Mar,MO,Missouri,71,Open primary,49.6,49.4,36,35,-47
+106,15-Mar,NC,North Carolina,107,Semi-closed primary,54.6,40.8,60,47,-47
+106,15-Mar,OH,Ohio,143,Semi-open primary,56.5,42.7,81,62,-47
+113,22-Mar,AZ,Arizona,75,Closed primary,57.6,39.9,42,33,-40
+113,22-Mar,ID,Idaho,23,Open caucus,21.2,78,5,18,-40
+113,22-Mar,UT,Utah,33,Semi-open caucus,20.3,79.3,6,27,-40
+117,26-Mar,AK,Alaska,16,Closed caucus,18.4,81.6,3,13,-36
+117,26-Mar,HI,Hawaii,25,Semi-closed caucus,30,69.8,8,17,-36
+117,26-Mar,WA,Washington,101,Open caucus,27.1,72.7,27,74,-36
+127,5-Apr,WI,Wisconsin,86,Open primary,43.1,56.6,38,48,-26
+131,9-Apr,WY,Wyoming,14,Closed caucus,44.3,55.7,7,7,-22
+141,19-Apr,NY,New York,247,Closed primary,58,42,139,108,-12
+148,26-Apr,CT,Connecticut,55,Closed primary,51.8,46.4,28,27,-5
+148,26-Apr,DE,Delaware,21,Closed primary,59.8,39.2,12,9,-5
+148,26-Apr,MD,Maryland,95,Closed primary,63,33.2,60,35,-5
+148,26-Apr,PA,Pennsylvania,189,Closed primary,55.6,43.6,106,83,-5
+148,26-Apr,RI,Rhode Island,24,Semi-closed primary,43.3,55,11,13,-5
+155,3-May,IN,Indiana,83,Open primary,47.5,52.5,39,44,2
+162,10-May,WV,West Virginia,29,Semi-closed primary,35.8,51.4,11,18,9
+169,17-May,KY,Kentucky,55,Closed primary,46.8,46.3,28,27,16
+169,17-May,OR,Oregon,61,Closed primary,44,56,25,36,16
+190,7-Jun,CA,California,475,,54.8,44.3,269,206,37
+190,7-Jun,MT,Montana,21,Open primary,44.6,51.1,10,11,37
+190,7-Jun,NJ,New Jersey,126,,63.2,36.8,79,47,37
+190,7-Jun,NM,New Mexico,34,Closed primary,51.5,48.5,18,16,37
+190,7-Jun,ND,North Dakota,18,Open caucus,25.6,64.2,5,13,37
+190,7-Jun,SD,South Dakota,20,,51,49,10,10,37

@@ -1,0 +1,28 @@
+1_googletrend.R (type/x-r-syntax) 2231 bytes.
+2016_election_results.csv (text/csv) 2720 bytes.
+2_data_descriptives.R (type/x-r-syntax) 4671 bytes.
+3_net_effects.R (type/x-r-syntax) 13924 bytes.
+4_main_its.R (type/x-r-syntax) 8863 bytes.
+5_hetero_its.R (type/x-r-syntax) 11091 bytes.
+A10_its_10day.R (type/x-r-syntax) 14895 bytes.
+A10_its_robustness.R (type/x-r-syntax) 30168 bytes.
+A11_placebo_days.R (type/x-r-syntax) 10783 bytes.
+A12_explaining_daily_bias.R (type/x-r-syntax) 9239 bytes.
+A13_regression_tree.R (type/x-r-syntax) 1363 bytes.
+A2_demogstrata_agg_changes.R (type/x-r-syntax) 5146 bytes.
+A3_GOPfieldcomp.R (type/x-r-syntax) 12809 bytes.
+A4_net_effects_demogonly.R (type/x-r-syntax) 26521 bytes.
+A5_demogmodelswithideo.R (type/x-r-syntax) 22955 bytes.
+A6_omnibus_models.R (type/x-r-syntax) 12928 bytes.
+A7_its_figures.R (type/x-r-syntax) 6305 bytes.
+A8_full_hetero.R (type/x-r-syntax) 41096 bytes.
+A9_power_analysis.R (type/x-r-syntax) 10317 bytes.
+Dem Primary results.csv (text/csv) 3089 bytes.
+DemTrainingData.RData (application/x-rlang-transport) 3350 bytes.
+dem_prim_estimates.csv (text/csv) 4434 bytes.
+Google Trends.csv (text/csv) 3395 bytes.
+primdates.csv (text/csv) 7502 bytes.
+Rep Primary results.csv (text/csv) 3729 bytes.
+RepTrainingData.RData (application/x-rlang-transport) 2697 bytes.
+rep_prim_estimates.csv (text/csv) 3841 bytes.
+sm_genelect.tab (text/tab-separated-values)  skipped because the total size of the download bundle exceeded the limit of 10000000 bytes.
